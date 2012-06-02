@@ -2,6 +2,10 @@ This is a tweaked version Pivotal's original Jasmine bundle for JavaScript to wo
 
 ----
 
+Tweaked and cleaned to work with Sublime Text 2.
+
+----
+
 A TextMate bundle for the Jasmine JavaScript BDD Framework.
 
 # About
